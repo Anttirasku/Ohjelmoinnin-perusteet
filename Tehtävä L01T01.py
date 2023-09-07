@@ -1,0 +1,1 @@
+print("Here starts basics of programming with Pyhthon\nAntti Rasku")
