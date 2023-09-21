@@ -1,0 +1,5 @@
+first_int=int(input("Anna ensimmäinen kokonaisluku  "))
+second_int=int(input("Anna toinen kokonaisluku  "))
+third_int=int(input("Anna kolmas kokonaisluku  "))
+given_integer=(first_int,second_int,third_int)
+print("Suurin luku on: ",max(given_integer))
