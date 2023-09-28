@@ -23,4 +23,4 @@ if luku5>0:
     numero5=luku5
 elif luku5<=0:
     numero5=luku5*1
-print(numero1+numero2+numero3+numero4+numero5)
+print("Lukujen summa on: ",numero1+numero2+numero3+numero4+numero5)
